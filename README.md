@@ -12,7 +12,7 @@
 
      <img src="README.assets/image-20241013185350295.png" alt="image-20241013185350295" style="zoom:50%;" />
 
-   - To configure the Apache ~~Maven~~ `settings.xml` file and Quarkus extension registry client, follow the instructions in the [Configuring the Maven settings.xml file for the online repository](https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/quarkus-2-7/guide/f93c45bd-4feb-4f74-a70a-022e9fb41957#proc_online-maven_quarkus-getting-started) and [Configuring Quarkus extension registry client](https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/quarkus-2-7/guide/f93c45bd-4feb-4f74-a70a-022e9fb41957#_9064727c-4b8a-4068-a9ba-8de6b258a14a).
+   - To configure the Apache Maven `settings.xml` file and Quarkus extension registry client, follow the instructions in the [Configuring the Maven settings.xml file for the online repository](https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/quarkus-2-7/guide/f93c45bd-4feb-4f74-a70a-022e9fb41957#proc_online-maven_quarkus-getting-started) and [Configuring Quarkus extension registry client](https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/quarkus-2-7/guide/f93c45bd-4feb-4f74-a70a-022e9fb41957#_9064727c-4b8a-4068-a9ba-8de6b258a14a).
    - Complement the configured Apache Maven `settings.xml` file with the following profile to have access to the OpenShift Serverless Logic repository:
 
    **Profile to access the OpenShift Serverless Logic repository**
