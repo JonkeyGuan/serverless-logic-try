@@ -285,3 +285,7 @@
 
 3. ## serverless-workflow-functions-events-quarkus
 
+   This project will demostrate how to use the [Serverless Workflow specification](https://github.com/serverlessworkflow/specification) implementation on Kogito to orchestrate a sequence of REST calls in an Event-Driven architecture.
+
+   Check the [serverless-workflow-functions-events-quarkus](serverless-workflow-functions-events-quarkus/README.md) for more information.
+
