@@ -279,5 +279,9 @@
 
 2. ## serverless-workflow-functions-quarkus
 
+   This project contains a workflow that performs two consecutive REST invocations defined as functions.
+
+   Check the [serverless-workflow-functions-quarkus](serverless-workflow-functions-quarkus/README.md) for more information.
+
 3. ## serverless-workflow-functions-events-quarkus
 
